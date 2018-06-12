@@ -1,1 +1,1 @@
-Java is one of the most popular programming language.
+System.out.println("Hello Java!");
