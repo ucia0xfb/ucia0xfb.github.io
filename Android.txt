@@ -1,3 +1,1 @@
-title:Android
-author:Jack
-content:Android is a operation system.
+Android is the most popular operation system.
